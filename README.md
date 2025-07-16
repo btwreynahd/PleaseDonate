@@ -50,5 +50,3 @@ Es bietet neue Designs, eigene Systeme und mehr Möglichkeiten für Spieler und 
 - Admin- & Modsystem
 - Anti-AFK-Skript
 - Performance-Verbesserungen
-
-**Hinweis:** Diese Version ist kostenpflichtig und darf ohne Genehmigung nicht weitergegeben oder verkauft werden.
