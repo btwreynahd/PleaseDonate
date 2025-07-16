@@ -4,7 +4,7 @@ A premium, customized version of the popular **PLS DONATE** Roblox game.
 
 ## 🌍 Overview
 
-**My Game ** is a custom-built donation experience designed for Roblox.  
+**My Game** is a custom-built donation experience designed for Roblox.  
 It expands on the original "PLS DONATE" concept, offering enhanced visuals, improved functionality, and monetization features.
 
 ---
